@@ -1,11 +1,18 @@
 # Scheduler
 
 Scheduler is a command-line tool built with Python and Click library that allows users to manage their tasks efficiently.
+
 ## Features
 
 - Add tasks with customizable name, description, and priority.
 - Delete tasks by their index in the task list.
 - List tasks with optional filtering by priority.
+
+## Requirements
+
+- Python 3.x
+- Click 8.1.7
+- Colorama 0.4.6
 
 ## Installation
 
