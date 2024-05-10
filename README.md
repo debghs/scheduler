@@ -1,6 +1,6 @@
-# Scheduler
+# scheduler
 
-Scheduler is a command-line tool built with Python and Click library that allows users to manage their tasks efficiently.
+scheduler is a command-line tool built with Python and Click library that allows users to manage their tasks efficiently.
 
 ## Features
 
